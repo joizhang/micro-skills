@@ -1,5 +1,5 @@
 ---
-name: zh-punct
+name: zh
 description: Use when writing Chinese text in your output — prose, documentation, code comments, commit messages, or chat replies. Triggers when output contains CJK characters with English half-width punctuation that should be Chinese full-width punctuation.
 ---
 
