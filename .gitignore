@@ -1,2 +1,4 @@
 temp/
 .claude/
+# Workflow artifacts (specs, plans) — local-only, not part of the deliverable
+docs/superpowers/
